@@ -1,6 +1,7 @@
 {
     "type": "module",
     "dependencies": {
-        "csv-parser": "^3.0.0"
+        "csv-parser": "^3.0.0",
+        "sqlite3": "^5.1.6"
     }
 }
